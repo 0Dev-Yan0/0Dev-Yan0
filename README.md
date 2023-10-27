@@ -2,15 +2,20 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=+Studying+🖥️;Learning+💻;+Optimizing+🧠" />
+    <div align="center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=+Studying+🖥️;Learning+💻;+Optimizing+🧠" />
+</div>
 </h1>
 
 <h3 align="center">A programming enthusiast delving deeper into the virtual world.</h3>
+<h4 align="center">[ Um entusiasta dq programação se aprofundando no mundo virtual ]</h4>
 
 <br/>
 
 <div align="center">
  
- 👓 I’m currently trying to become a **FullStack Developer.**
+ 👓 I’m currently trying to become a **FullStack Developer.** | 
+ [ Atualmente tentando me tornar um **Desenvolvedor FullStack.** ]
  
  📚 I’m currently learning **Node.js, React, Python, API's usage and Express.**
 
