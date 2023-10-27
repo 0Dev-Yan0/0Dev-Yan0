@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=+Studying+🖥️;Learning+💻;+Optimizing+🧠" />
     <div align="center">
-    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=+Studying+🖥️;Learning+💻;+Optimizing+🧠" />
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=70&duration=4000&lines=+Estudando+🖥️;Aprendendo+💻;+Otimizando+🧠" />
 </div>
 </h1>
 
@@ -13,16 +13,31 @@
 <br/>
 
 <div align="center">
- 
- 👓 I’m currently trying to become a **FullStack Developer.** | 
- [ Atualmente tentando me tornar um **Desenvolvedor FullStack.** ]
- 
- 📚 I’m currently learning **Node.js, React, Python, API's usage and Express.**
+ <div>
 
- 👀 Take a look on: **[Alura](https://www.alura.com.br), [Curso Em Vídeo](https://www.cursoemvideo.com), [Postman](https://www.postman.com)... or anything [here](https://techguide.sh).**
+👓 I’m currently trying to become a **FullStack Developer.**
+<br>
+[ 👓 Atualmente tentando me tornar um **Desenvolvedor FullStack.** ]
+ </div>
+<div>
 
- 🌟 Fun fact **I love Homestuck 🧡**
- 
+📚 I’m currently learning **Node.js, React, Python, API's usage and Express.**
+<br>
+[ 📚 No momento tento aprender **Node.js, React, Python, uso de API's e Express.** ]
+</div>
+<div>
+
+👀 Take a look on: **[Alura](https://www.alura.com.br), [Curso Em Vídeo](https://www.cursoemvideo.com), [Postman](https://www.postman.com)... or anything [here](https://techguide.sh).**
+<br>
+[ 👀 Dê uma olhada em: **[Alura](https://www.alura.com.br), [Curso Em Vídeo](https://www.cursoemvideo.com), [Postman](https://www.postman.com)... ou qualquer coisa [aqui](https://techguide.sh).** ]
+</div>
+<div>
+
+🌟 Fun fact **I love Homestuck 🧡**
+<br>
+[ 🌟 Fato curioso **Eu amo Homestuck 🧡** ]
+</div>
+
  </div>
  
 <div align="center"> 
@@ -40,6 +55,7 @@
  <hr/>
  
 <h2 align="center">⚒️ Languages, Frameworks and Tools ⚒️</h2>
+<h3 align="center">[ ⚒️ Linguagens, Frameworks e Ferramentas ⚒️ ]</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,postman,nodejs,py,javascript,express,discord,bots,jquery,linkedin&perline=8&theme=dark" />
@@ -50,6 +66,7 @@
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
+  <h3>[ 🐍 Minhas Contribuições 🐍 ]</h3>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/0Dev-Yan0/0Dev-Yan0/output/github-contribution-grid-snake.svg" />
   
@@ -59,6 +76,7 @@
 <hr/>
 
 <h2 align="center">⚡ My Stats ⚡</h2>
+<h3 align="center">[ ⚡ Meus Status ⚡ ]</h3>
 
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=0Dev-Yan0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
@@ -70,7 +88,10 @@
 <hr/>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Keep+Up‼️;+Always+trying!+💢;+And+be+patience+🐈‍⬛">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Keep+Up‼️;+Always+Trying!+💢;+And+Be+Patience+🐈‍⬛">
+        <div align="center">
+    <img align="center" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=2000&lines=+Não+Desista‼️;+Sempre+Tentando!+💢;+E+Seja+Paciente+🐈‍⬛" />
+</div>
 </h3>
 
 <br/>
