@@ -57,7 +57,6 @@
 
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=0Dev-Yan0&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<br>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=0Dev-Yan0&show_icons=true&theme=tokyonight&rank_icon=github" alt="readme stats" />
 <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Dev-Yan0&layout=compact&theme=tokyonight" alt="top langs" />
