@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">A programming enthusiast delving deeper into the virtual world.</h3>
-<h4 align="center">[ Um entusiasta dq programação se aprofundando no mundo virtual ]</h4>
+<h4 align="center">[ Um entusiasta da programação se aprofundando no mundo virtual ]</h4>
 
 <br/>
 
